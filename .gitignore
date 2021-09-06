@@ -1,0 +1,8 @@
+# directories
+.next
+dist
+node_modules
+
+# files
+*.log
+.env.local

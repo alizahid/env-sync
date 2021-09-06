@@ -1,0 +1,13 @@
+{
+  "name": "env-sync",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "email": "ali.zahid@live.com",
+    "name": "Ali Zahid",
+    "url": "https://alizahid.dev"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
